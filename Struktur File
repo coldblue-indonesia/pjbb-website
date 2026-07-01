@@ -1,0 +1,10 @@
+pjbb-website/
+├── index.html          # Halaman utama
+├── assets/
+│   ├── css/
+│   │   └── style.css   # Custom CSS
+│   └── js/
+│       └── main.js     # JavaScript logic
+├── README.md
+├── .gitignore
+└── LICENSE
